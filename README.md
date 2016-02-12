@@ -39,7 +39,6 @@ AVCoachmarkView Delegate
 - (void)coachMarksView:(AVCoachmarkView*)coachMarksView didTapOnScreen:(id)sender {
    [coachMarksView hideCoachMark];
 }
-
 ```
 ## Author
 ([@arpitVishwakarma](https://www.twitter.com/arpit_limodia))
