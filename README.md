@@ -41,4 +41,4 @@ AVCoachmarkView Delegate
 }
 ```
 ## Author
-([@arpitVishwakarma](https://www.twitter.com/arpit_limodia))
+([@badriVishwakarma](https://www.twitter.com/badrivk))
